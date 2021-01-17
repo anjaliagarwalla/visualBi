@@ -4,5 +4,10 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date"
+  },
+  "Album":{
+    "id":"int",
+    "title":"string",
+    "songs":"string"
   }
 }
